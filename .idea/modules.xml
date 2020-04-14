@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" filepath="$PROJECT_DIR$/cloud-config-center3344/cloud-config-center3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consulconsumer-order83/cloud-consulconsumer-order83.iml" filepath="$PROJECT_DIR$/cloud-consulconsumer-order83/cloud-consulconsumer-order83.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consulprovider-payment8005/cloud-consulprovider-payment8005.iml" filepath="$PROJECT_DIR$/cloud-consulprovider-payment8005/cloud-consulprovider-payment8005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-feign-hystrix-order90/cloud-consumer-feign-hystrix-order90.iml" filepath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order90/cloud-consumer-feign-hystrix-order90.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" filepath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server7002/cloud-eureka-server7002.iml" filepath="$PROJECT_DIR$/cloud-eureka-server7002/cloud-eureka-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway-server9527/cloud-gateway-server9527.iml" filepath="$PROJECT_DIR$/cloud-gateway-server9527/cloud-gateway-server9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-openFeign-order80/cloud-openFeign-order80.iml" filepath="$PROJECT_DIR$/cloud-openFeign-order80/cloud-openFeign-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provide-hystrixPayment8007/cloud-provide-hystrixPayment8007.iml" filepath="$PROJECT_DIR$/cloud-provide-hystrixPayment8007/cloud-provide-hystrixPayment8007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" filepath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" filepath="$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment8004/cloud-provider-payment8004.iml" filepath="$PROJECT_DIR$/cloud-provider-payment8004/cloud-provider-payment8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud2020.iml" filepath="$PROJECT_DIR$/cloud2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-config-client3377/nacos-config-client3377.iml" filepath="$PROJECT_DIR$/nacos-config-client3377/nacos-config-client3377.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-consumer-order6003/nacos-consumer-order6003.iml" filepath="$PROJECT_DIR$/nacos-consumer-order6003/nacos-consumer-order6003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-provide-payment6001/nacos-provide-payment6001.iml" filepath="$PROJECT_DIR$/nacos-provide-payment6001/nacos-provide-payment6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-provider-payment6002/nacos-provider-payment6002.iml" filepath="$PROJECT_DIR$/nacos-provider-payment6002/nacos-provider-payment6002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-order-server10001/seata-order-server10001.iml" filepath="$PROJECT_DIR$/seata-order-server10001/seata-order-server10001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-payment-server10000/seata-payment-server10000.iml" filepath="$PROJECT_DIR$/seata-payment-server10000/seata-payment-server10000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-stock-server10003/seata-stock-server10003.iml" filepath="$PROJECT_DIR$/seata-stock-server10003/seata-stock-server10003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-provider-service8401/sentinel-provider-service8401.iml" filepath="$PROJECT_DIR$/sentinel-provider-service8401/sentinel-provider-service8401.iml" />
+    </modules>
+  </component>
+</project>
